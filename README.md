@@ -86,13 +86,13 @@ Now visit 👉 [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in your browser.
 ---
 
 ## 📸 Screenshots
-- <img width="902" height="479" alt="image" src="https://github.com/user-attachments/assets/f5b7758f-c18f-4663-8184-fa549f3947d2" />
-  
-- <img width="889" height="469" alt="image" src="https://github.com/user-attachments/assets/4fa95165-8b28-4c21-bf35-7f748fe932ed" />
- 
-- <img width="902" height="470" alt="image" src="https://github.com/user-attachments/assets/ed80b42a-6262-42d4-a5d9-ef622324f50b" />
+- <img width="889" height="469" alt="image" src="https://github.com/user-attachments/assets/a13521c5-7d60-448c-99ea-c8334bf9d208" />
 
-- <img width="908" height="481" alt="image" src="https://github.com/user-attachments/assets/dde778db-e77a-4711-823e-e5db9a8d0a60" />
+- <img width="902" height="479" alt="image" src="https://github.com/user-attachments/assets/c3aeb98c-0f55-42f9-9eb8-68fd51f89f36" />
+
+- <img width="902" height="470" alt="image" src="https://github.com/user-attachments/assets/63c2ba82-91d5-4a98-9837-687bbb17fb6e" />
+
+- <img width="908" height="481" alt="image" src="https://github.com/user-attachments/assets/baac0da1-a66f-4246-924e-70ef7c37dc0a" />
 
 ---
 
